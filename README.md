@@ -2,3 +2,5 @@
 GitHubTest
 
 - New Line in Edit Branch
+- New Line in Master
+
